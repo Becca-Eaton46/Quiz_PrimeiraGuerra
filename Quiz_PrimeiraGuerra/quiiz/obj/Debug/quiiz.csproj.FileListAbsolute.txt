@@ -1,0 +1,11 @@
+C:\Users\a1704303\source\repos\quiiz\quiiz\bin\Debug\quiiz.exe.config
+C:\Users\a1704303\source\repos\quiiz\quiiz\bin\Debug\quiiz.exe
+C:\Users\a1704303\source\repos\quiiz\quiiz\bin\Debug\quiiz.pdb
+C:\Users\a1704303\source\repos\quiiz\quiiz\obj\Debug\quiiz.csprojResolveAssemblyReference.cache
+C:\Users\a1704303\source\repos\quiiz\quiiz\obj\Debug\quiiz.Form1.resources
+C:\Users\a1704303\source\repos\quiiz\quiiz\obj\Debug\quiiz.Pergunta1.resources
+C:\Users\a1704303\source\repos\quiiz\quiiz\obj\Debug\quiiz.Properties.Resources.resources
+C:\Users\a1704303\source\repos\quiiz\quiiz\obj\Debug\quiiz.csproj.GenerateResource.Cache
+C:\Users\a1704303\source\repos\quiiz\quiiz\obj\Debug\quiiz.csproj.CoreCompileInputs.cache
+C:\Users\a1704303\source\repos\quiiz\quiiz\obj\Debug\quiiz.exe
+C:\Users\a1704303\source\repos\quiiz\quiiz\obj\Debug\quiiz.pdb
